@@ -1,3 +1,3 @@
-# 使用NodeJs搭建属于自己的博客
+# NodeJs搭建属于的博客
 
-> Author:Chandler
+> Author：郭志强
